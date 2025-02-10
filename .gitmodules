@@ -1,0 +1,3 @@
+[submodule "practicas/aiiot-p0"]
+	path = practicas/aiiot-p0
+	url = git@github.com:paalcald/aiiot-p0.git
