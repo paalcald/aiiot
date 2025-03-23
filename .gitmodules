@@ -7,3 +7,6 @@
 [submodule "practicas/aiiot-p2"]
 	path = practicas/aiiot-p2
 	url = https://github.com/paalcald/aiiot-p2
+[submodule "practicas/aiiot-p3"]
+	path = practicas/aiiot-p3
+	url = git@github.com:paalcald/aiiot-p3.git
